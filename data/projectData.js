@@ -6,16 +6,6 @@
 
 const PROJRECTS = [
   {
-    title: 'project manager redux',
-    src: 'images/project3.png',
-    alt: 'project manager project',
-    href: 'https://project-manager-7b746.firebaseapp.com/',
-    git: 'https://github.com/sarah27h/projects-manager',
-    info:
-      '● Built a simple project management tool with authentication and cloud functions. Users can sign up, create their own projects and store them on the firebase. ●  Succeeded in getting a score of 92% for accessibility, 86% for best practices, and 68% for performance after performing Audits test.',
-    tech: 'React.js, Redux, Thunk, Firebase, Materialize CSS',
-  },
-  {
     title: 'museums guide react',
     src: 'images/project1.png',
     alt: 'Museum guide project',
@@ -35,6 +25,16 @@ const PROJRECTS = [
     info:
       '● Maintain a static book lending app using React, JS, JSX, HTML, and CSS to an interactive, cross-browser app that enables users to have their own library (MyReads) and move books within 3 shelves. ● Built a search filter using React.js to allow users to search for more books in the main library, fetched 20 books from the database to select and add them to their own library.',
     tech: 'React.js, CSS, HTML, Javascript, Cross-Browser-Testing',
+  },
+  {
+    title: 'project manager redux',
+    src: 'images/project3.png',
+    alt: 'project manager project',
+    href: 'https://project-manager-7b746.firebaseapp.com/',
+    git: 'https://github.com/sarah27h/projects-manager',
+    info:
+      '● Built a simple project management tool with authentication and cloud functions. Users can sign up, create their own projects and store them on the firebase. ●  Succeeded in getting a score of 92% for accessibility, 86% for best practices, and 68% for performance after performing Audits test.',
+    tech: 'React.js, Redux, Thunk, Firebase, Materialize CSS',
   },
   {
     title: 'chat app',
@@ -82,7 +82,7 @@ const PROJRECTS = [
     href: 'https://rhcapsules.surge.sh/',
     git: 'https://github.com/sarah27h/rheumatology-capsules',
     info:
-      '● Built a medical educational website for Rheumatology. ● Succeeded in getting a score of 100% for accessibility, 86% for best practices and 86% for performance after performing Audits test.',
+      '● Built a medical educational website for Rheumatology. ● Succeeded in getting a score of 100% for accessibility, 86% for best practices and 86% for performance and speed score 94% after performing Audits test.',
     tech: 'CSS Grid, Sass, JS ',
   },
   {
