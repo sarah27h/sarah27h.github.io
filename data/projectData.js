@@ -27,6 +27,16 @@ const PROJRECTS = [
     tech: 'React.js, CSS, HTML, Javascript, Cross-Browser-Testing',
   },
   {
+    title: 'Get Weather React',
+    src: 'images/project6.png',
+    alt: 'Get Weather project',
+    href: 'https://sarah27h.github.io/react-get-weather-app/',
+    git: 'https://github.com/sarah27h/react-get-weather-app',
+    info:
+      '● Built a single page application from scratch to work as an interactive, responsive weather app. ● Succeeded in getting a score of 100% for accessibility, 93% for best practices and 71% for performance after performing Audits test.',
+    tech: 'React.js, Responsive, Accessible, Cross-browsers, openweathermap API, AJAX ',
+  },
+  {
     title: 'project manager redux',
     src: 'images/project3.png',
     alt: 'project manager project',
@@ -56,16 +66,7 @@ const PROJRECTS = [
       '● Maintain a static design using HTML, CSS, JS, WCAG guidelines, Web Aim Checklist and Service Worker to be a mobile-ready web application,100% responsive for Web & Mobile, accessible and work offline and have responsive images for every viewport using srcset. ● Succeeded in getting a score of 94% for accessibility and best practices after performing Audits test.',
     tech: 'Javascript, HTML, CSS, Mapbox, Responsive, Accessible, ',
   },
-  {
-    title: 'Get Weather React',
-    src: 'images/project6.png',
-    alt: 'Get Weather project',
-    href: 'https://sarah27h.github.io/react-get-weather-app/',
-    git: 'https://github.com/sarah27h/react-get-weather-app',
-    info:
-      '● Built a single page application from scratch to work as an interactive, responsive weather app. ● Succeeded in getting a score of 100% for accessibility, 93% for best practices and 71% for performance after performing Audits test.',
-    tech: 'React.js, Responsive, Accessible, Cross-browsers, openweathermap API, AJAX ',
-  },
+
   {
     title: 'Connect Personal',
     src: 'images/project7.png',
