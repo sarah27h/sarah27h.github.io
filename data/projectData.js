@@ -86,6 +86,17 @@ const PROJRECTS = [
       '● Built a medical educational website for Rheumatology. ● Succeeded in getting a score of 100% for accessibility, 86% for best practices and 86% for performance and speed score 94% after performing Audits test.',
     tech: 'CSS Grid, Sass, JS ',
   },
+  ,
+  {
+    title: 'M Clinic',
+    src: 'images/project9.png',
+    alt: 'M Clinic project',
+    href: 'https://mclinic.surge.sh/',
+    git: 'https://github.com/sarah27h/m-clinic',
+    info:
+      '● Converted a Landing page design in layered PSD format to a responsive landing page. ● Succeeded in getting a score of 96% for accessibility, 93% for best practices and 93% for performance and speed score 94% after performing Audits test.',
+    tech: 'CSS Grid, Sass, JS ',
+  },
   {
     title: 'Memory game',
     src: 'images/project11.png',
