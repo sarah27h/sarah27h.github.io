@@ -40,7 +40,7 @@ const PROJRECTS = [
     title: 'project manager redux',
     src: 'images/project3.png',
     alt: 'project manager project',
-    href: 'https://project-manager-7b746.firebaseapp.com/',
+    // href: 'https://project-manager-7b746.firebaseapp.com/',
     git: 'https://github.com/sarah27h/projects-manager',
     info:
       '● Built a simple project management tool with authentication and cloud functions. Users can sign up, create their own projects and store them on the firebase. ●  Succeeded in getting a score of 92% for accessibility, 86% for best practices, and 68% for performance after performing Audits test.',
@@ -50,7 +50,7 @@ const PROJRECTS = [
     title: 'chat app',
     src: 'images/project4.png',
     alt: 'chat app project',
-    href: 'https://sarah27h.github.io/react-chat-app/',
+    // href: 'https://sarah27h.github.io/react-chat-app/',
     git: 'https://github.com/sarah27h/react-chat-app',
     info:
       '● Create from scratch a chat application built using React.js and Chatkit APIto be a mobile-ready web application,100% responsive for Web & Mobile. ● Succeeded in getting a score of 96% for accessibility and 93% for best practices after performing Audits test.',
@@ -127,15 +127,15 @@ const PROJRECTS = [
       '● Used Jasmine 2.2 to test code against a pre-existing reads RSS feeds application to quickly test whether new code breaks an existing feature within my code, without having to manually test all of the functionality.',
     tech: 'Jasmine 2.2 unit-testing',
   },
-  {
-    title: 'bakery website',
-    src: 'images/project14.png',
-    alt: 'best bakery website project',
-    href: 'http://bestbakery.000webhostapp.com/',
-    info:
-      '● Built from scratch a responsive  HTML template. Created to fit a small business like cake shops, patisserie shops, and bakeries. ● Succeeded in getting a score of 75% for accessibility, 65% for both best practices and performance after performing Audits test.',
-    tech: 'Bootstrap, Jquery, Javascript, Google maps, HTML, CSS, Responsive, Handlebars library',
-  },
+  // {
+  //   title: 'bakery website',
+  //   src: 'images/project14.png',
+  //   alt: 'best bakery website project',
+  //   href: 'http://bestbakery.000webhostapp.com/',
+  //   info:
+  //     '● Built from scratch a responsive  HTML template. Created to fit a small business like cake shops, patisserie shops, and bakeries. ● Succeeded in getting a score of 75% for accessibility, 65% for both best practices and performance after performing Audits test.',
+  //   tech: 'Bootstrap, Jquery, Javascript, Google maps, HTML, CSS, Responsive, Handlebars library',
+  // },
   {
     title: 'Pixel Art Maker',
     src: 'images/project15.png',
