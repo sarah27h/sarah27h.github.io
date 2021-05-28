@@ -68,6 +68,17 @@ const PROJRECTS = [
   },
 
   {
+    title: 'Lights',
+    src: 'images/project10.png',
+    alt: 'Lights project',
+    href: 'https://sarah27h.github.io/light/',
+    git: 'https://github.com/sarah27h/light/tree/master',
+    info:
+      '● Built a landing page for Lights company as a part from freelancer jobs. ● Succeeded in getting a score of 100% for both performance and best practices and 97% for accessibility after performing Audits test.',
+    tech: 'Bootstrap 4.6, tiny slider, Responsive, Cross-browsers ',
+  },
+
+  {
     title: 'Connect Personal',
     src: 'images/project7.png',
     alt: 'Connect Personal project',
